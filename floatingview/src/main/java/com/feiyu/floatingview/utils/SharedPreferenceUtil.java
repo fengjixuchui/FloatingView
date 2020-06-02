@@ -3,7 +3,7 @@ package com.feiyu.floatingview.utils;
 import android.content.Context;
 import android.content.SharedPreferences;
 
-public class PartySharedPreferenceUtil {
+public class SharedPreferenceUtil {
 	private SharedPreferences mInstance = null;
 
 	/**
